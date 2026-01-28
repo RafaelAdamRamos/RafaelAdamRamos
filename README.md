@@ -29,10 +29,10 @@ Currently, I’m focused on improving my skills in **software development**, **v
 ## ⚙️ Skills and Technologies
 
 ### 🖥️ Languages & Technologies
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ruby&theme=dark)](https://skillicons.dev)
 
 ### 🧰 Tools & IDEs
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,mysql&theme=dark)](https://skillicons.dev)
 
 ---
 
