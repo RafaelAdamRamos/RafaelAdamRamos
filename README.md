@@ -18,7 +18,7 @@ Currently, I’m focused on improving my skills in **software development**, **v
 
 <div align="center">
   
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelAdamRamos&show_icons=true&theme=tokyonight)](https://github.com/RafaelAdamRamos)
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelAdamRamos&show_icons=true&theme=tokyonight&v=1)](https://github.com/RafaelAdamRamos)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAdamRamos&layout=compact&theme=tokyonight)](https://github.com/RafaelAdamRamos)
 
